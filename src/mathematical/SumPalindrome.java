@@ -4,7 +4,7 @@ public class SumPalindrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(checkSumPalindrome(56));
+		System.out.println("Test"+checkSumPalindrome(56));
 	}
 	
 	public static boolean checkSumPalindrome(int num) {
