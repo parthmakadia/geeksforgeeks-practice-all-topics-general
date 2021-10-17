@@ -4,7 +4,7 @@ public class ArithmeticAP {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(findNthTermOfAP(2,4,10));
+		System.out.println("Test"+findNthTermOfAP(2,4,10));
 	}
 	
 	public static int findNthTermOfAP(int n1, int n2, int n) {
